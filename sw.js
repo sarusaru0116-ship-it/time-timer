@@ -1,5 +1,5 @@
 // タイムタイマー Service Worker
-const CACHE = "timetimer-v1";
+const CACHE = "timetimer-v2";
 const ASSETS = [
   "./",
   "./index.html",
